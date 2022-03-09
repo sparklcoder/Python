@@ -1,0 +1,5 @@
+def comparison(a, b):
+   print(bool(a==b)) ##do a==b
+   print(bool(a>b)) ##do a>b
+   print(bool(a!=b)) ##do a!=b
+   print(bool(a<b)) ##do a<b ##do a<b
