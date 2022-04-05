@@ -1,0 +1,10 @@
+# Function to check zero at 
+# start and end index
+def check_zero(N, arr):
+    
+    # complete the if statement to check
+    # if first or last element in list is 0
+    if(arr[0] == 0 or arr[N-1] == 0 ):
+        return True
+
+    return False
